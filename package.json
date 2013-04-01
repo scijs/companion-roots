@@ -1,6 +1,6 @@
 {
   "name": "companion-roots",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Finds roots of polynomials by solving the eigenvalues of the companion matrix",
   "main": "roots.js",
   "directories": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikolalysenko/companion-matrix.git"
+    "url": "git://github.com/mikolalysenko/companion-roots.git"
   },
   "keywords": [
     "polynomial",
